@@ -31,7 +31,7 @@
                     resolve(patches);
                 },
                 onerror: function(err) {
-                    console.error("[WASM PATCHER] Failed to load patches:", err);
+                    console.error("[WASM] Failed to load patches:", err);
                     resolve([]);
                 }
             });
