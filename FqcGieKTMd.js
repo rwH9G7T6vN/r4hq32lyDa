@@ -1,8 +1,9 @@
 // ==UserScript==
-// @name         Florr WASM Remote Patcher
+// @name         Florr.io wasm svg
 // @namespace    http://tampermonkey.net/
 // @version      1.7
-// @description  Patch florr.io WASM strings remotely from GitHub
+// @description  hi
+// @author       cuntfron
 // @match        *://florr.io/*
 // @grant        GM_xmlhttpRequest
 // @run-at       document-start
