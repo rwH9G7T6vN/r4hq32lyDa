@@ -1,1 +1,7 @@
 *.wat
+/node_modules
+*.json
+editwasm.js
+patchWat.py
+*.bak
+*.txt
